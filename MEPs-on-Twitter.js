@@ -534,6 +534,7 @@ var MEPsPortugal = [
 "LilianaMEP",
 "MJRodriguesEU",
 "czorrinho",
+"fernandoruas",
 ];
 
 var MEPsRomania = [
